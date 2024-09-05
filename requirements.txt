@@ -6,4 +6,5 @@ yt-dlp
 pymysql
 streamlit-tags
 Pillow
+spacy
 nltk
